@@ -1,5 +1,4 @@
-# IC-Archive
-Repositiory for the archiving of reports from the Intelligence Community
+# IC-Archive: Archive of reports from the Intelligence Community
 
 This repository only includes reports that have been declassified and released to the public (via press release or FOIA).
 People holding security clearances are safe to read them.
